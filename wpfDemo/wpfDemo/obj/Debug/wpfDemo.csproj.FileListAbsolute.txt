@@ -1,0 +1,15 @@
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\bin\Debug\wpfDemo.exe.config
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\bin\Debug\wpfDemo.exe
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\bin\Debug\wpfDemo.pdb
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\wpfDemo.csprojAssemblyReference.cache
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\MainWindow.g.cs
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\App.g.cs
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\wpfDemo_MarkupCompile.cache
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\wpfDemo_MarkupCompile.lref
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\MainWindow.baml
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\wpfDemo.g.resources
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\wpfDemo.Properties.Resources.resources
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\wpfDemo.csproj.GenerateResource.cache
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\wpfDemo.csproj.CoreCompileInputs.cache
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\wpfDemo.exe
+C:\Users\320106688\Documents\LearningCSharp\wpfDemo\wpfDemo\obj\Debug\wpfDemo.pdb

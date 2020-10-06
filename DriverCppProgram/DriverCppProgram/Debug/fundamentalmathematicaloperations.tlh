@@ -1,0 +1,153 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.27.29111.0 (1f229b05).
+//
+// C:\Users\320106688\Documents\DriverCppProgram\DriverCppProgram\Debug\fundamentalmathematicaloperations.tlh
+//
+// C++ source equivalent of Win32 type library C:\FundamentalMathematicalOperations.tlb
+// compiler-generated file created 10/06/20 at 23:50:25 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace FundamentalMathematicalOperations {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("95de43b4-49dc-4658-b2df-39d3134fe924"))
+/* LIBID */ __FundamentalMathematicalOperations;
+struct __declspec(uuid("08fcac53-9a49-3e45-9ca8-2dc067ed607f"))
+/* dual interface */ IAddition;
+struct /* coclass */ Addition;
+struct __declspec(uuid("3910af3d-74d0-33c0-a883-6d86062fe53d"))
+/* dual interface */ IDivision;
+struct /* coclass */ Division;
+struct __declspec(uuid("36c0686e-5ccd-3ff2-9858-51fd438a3dae"))
+/* dual interface */ ISubstraction;
+struct /* coclass */ Substraction;
+struct __declspec(uuid("fdb6b62b-58b6-3bc6-be95-c7fd53b691df"))
+/* dual interface */ IMultiplication;
+struct /* coclass */ Multiplication;
+struct __declspec(uuid("decb232d-ed45-34ab-a839-6f8cc3888d65"))
+/* dual interface */ _Addition;
+struct __declspec(uuid("fe5e1a0f-2f77-3a9b-ad46-f6073d93b074"))
+/* dual interface */ _Division;
+struct __declspec(uuid("0ea911f9-1974-31b4-a831-9bc14f5173f0"))
+/* dual interface */ _Substraction;
+struct __declspec(uuid("166aa3b4-c9c8-3f92-ae06-e1b93102af35"))
+/* dual interface */ _Multiplication;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IAddition, __uuidof(IAddition));
+_COM_SMARTPTR_TYPEDEF(IDivision, __uuidof(IDivision));
+_COM_SMARTPTR_TYPEDEF(ISubstraction, __uuidof(ISubstraction));
+_COM_SMARTPTR_TYPEDEF(IMultiplication, __uuidof(IMultiplication));
+_COM_SMARTPTR_TYPEDEF(_Addition, __uuidof(_Addition));
+_COM_SMARTPTR_TYPEDEF(_Division, __uuidof(_Division));
+_COM_SMARTPTR_TYPEDEF(_Substraction, __uuidof(_Substraction));
+_COM_SMARTPTR_TYPEDEF(_Multiplication, __uuidof(_Multiplication));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("08fcac53-9a49-3e45-9ca8-2dc067ed607f"))
+IAddition : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall SumTwoNumbers (
+        /*[in]*/ long x,
+        /*[in]*/ long y,
+        /*[out,retval]*/ long * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("8bf73c89-d803-3ba7-83b5-1d6ff9117f88"))
+Addition;
+    // [ default ] interface _Addition
+    // interface _Object
+    // interface IAddition
+
+struct __declspec(uuid("3910af3d-74d0-33c0-a883-6d86062fe53d"))
+IDivision : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall DivideTwoNumbers (
+        /*[in]*/ long x,
+        /*[in]*/ long y,
+        /*[out,retval]*/ double * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("054afeb3-092a-348d-a0b5-5b750b387262"))
+Division;
+    // [ default ] interface _Division
+    // interface _Object
+    // interface IDivision
+
+struct __declspec(uuid("36c0686e-5ccd-3ff2-9858-51fd438a3dae"))
+ISubstraction : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall SubstractTwoNumbers (
+        /*[in]*/ long x,
+        /*[in]*/ long y,
+        /*[out,retval]*/ long * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("c318593d-6c22-322f-abaf-f987a97fcd88"))
+Substraction;
+    // [ default ] interface _Substraction
+    // interface _Object
+    // interface ISubstraction
+
+struct __declspec(uuid("fdb6b62b-58b6-3bc6-be95-c7fd53b691df"))
+IMultiplication : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall MultiplyTwoNumbers (
+        /*[in]*/ long x,
+        /*[in]*/ long y,
+        /*[out,retval]*/ long * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("134e488f-beea-337c-9a2e-760fc3da7743"))
+Multiplication;
+    // [ default ] interface _Multiplication
+    // interface _Object
+    // interface IMultiplication
+
+struct __declspec(uuid("decb232d-ed45-34ab-a839-6f8cc3888d65"))
+_Addition : IDispatch
+{};
+
+struct __declspec(uuid("fe5e1a0f-2f77-3a9b-ad46-f6073d93b074"))
+_Division : IDispatch
+{};
+
+struct __declspec(uuid("0ea911f9-1974-31b4-a831-9bc14f5173f0"))
+_Substraction : IDispatch
+{};
+
+struct __declspec(uuid("166aa3b4-c9c8-3f92-ae06-e1b93102af35"))
+_Multiplication : IDispatch
+{};
+
+} // namespace FundamentalMathematicalOperations
+
+#pragma pack(pop)
