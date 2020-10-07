@@ -8,7 +8,7 @@
 
 ### Task 2 : Creating a message box in C# (wpf)
 
-- The folder names wpfDemo contains the logic for that
+- The folder named wpfDemo contains the logic for that
 
 ###  Task 3 :Write a C# function and use it in a C++ program
 
