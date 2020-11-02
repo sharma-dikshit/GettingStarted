@@ -1,0 +1,2 @@
+C:\Users\320106688\source\repos\TaskNumberFive\CppDriverCode\Debug\CppDriverCode.vcxprojAssemblyReference.cache
+C:\Users\320106688\source\repos\TaskNumberFive\CppDriverCode\Debug\CppDriverCode.vcxproj.CopyComplete

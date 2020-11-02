@@ -1,0 +1,15 @@
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\bin\Debug\wpfMessageBox.dll
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\bin\Debug\wpfMessageBox.pdb
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\wpfMessageBox.csprojAssemblyReference.cache
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\MessageBoxUI.g.cs
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\wpfMessageBox_MarkupCompile.cache
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\wpfMessageBox_MarkupCompile.lref
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\MessageBoxUI.baml
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\Themes\Generic.baml
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\wpfMessageBox.g.resources
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\wpfMessageBox.Properties.Resources.resources
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\wpfMessageBox.csproj.GenerateResource.cache
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\wpfMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\wpfMessageBox.dll
+C:\Users\320106688\source\repos\TaskNumberFive\wpfMessageBox\obj\Debug\wpfMessageBox.pdb
